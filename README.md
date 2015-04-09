@@ -14,7 +14,7 @@ It's very simple to use:
     <script type="text/javascript" src="lib/spoilers.js"></script>```
 3. That's all. :)
 
-See [demo code](https://github.com/villamarin/Spoilers/blob/master/examples/text.html)
+See [demo code](https://github.com/villamarin/Spoilers/blob/master/tests/text.html)
 
 License
 
