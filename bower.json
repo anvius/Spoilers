@@ -1,0 +1,25 @@
+{
+  "name": "Spoilers",
+  "version": "1.0",
+  "homepage": "https://github.com/villamarin/Spoilers",
+  "authors": [
+    "Antonio Villamarin <ant@onio.org>"
+  ],
+  "description": "SpoilerJS is a lightweight microplugin written in pure JavaScript (so without dependencies) to hide text, images or anything HTML code to your users adding a simple tag class \"spoiler\".",
+  "main": "lib/spoilers.js",
+  "keywords": [
+    "js",
+    "javascript",
+    "spoilers",
+    "films",
+    "series"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
