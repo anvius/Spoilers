@@ -10,8 +10,9 @@ It's very simple to use:
 
 1. Add class name "spoiler" to HTML elements you want hide (blured).
 2. Add script at the end of your HTML document.
-```    <script type="text/javascript" src="lib/config.js"></script>
-    <script type="text/javascript" src="lib/spoilers.js"></script>```
+```
+  <script type="text/javascript" src="spoilers.js"></script>
+```
 3. That's all. :)
 
 See [demo code](https://github.com/villamarin/Spoilers/blob/master/tests/text.html)
@@ -22,7 +23,7 @@ The MIT License (MIT)
 [OSI Approved License]
 The MIT License (MIT)
 
-Copyright (c) 2011 Antonio Villamarin <ant@onio.org>
+Copyright (c) 2015 Antonio Villamarin <ant@onio.org>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
