@@ -15,7 +15,7 @@ It's very simple to use:
 ```
 3. That's all. :)
 
-See [demo code](https://github.com/villamarin/Spoilers/blob/master/tests/text.html)
+See [demo code](http://htmlpreview.github.io/?https://raw.githubusercontent.com/anvius/Spoilers/master/tests/text.html)
 
 License
 
